@@ -1,0 +1,5 @@
+{
+  "name": "Scripture Quest",
+  "description": "An interactive, Kahoot-style Bible trivia game that tests your biblical knowledge with vibrant visuals and AI-powered question generation.",
+  "requestFramePermissions": []
+}
